@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @S1Hal9000
-- 👀 I’m interested in Python3 and Fortran presently.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on: Nothing at present.
-- 📫 How to reach me: Smoke signals, or interstellar signals.
+- 👀 I’m interested in Python, Rust, Assembly and Fortran presently Dave.
+- 🌱 I’m currently learning Python, Rust, and Fortran.
+- 💞️ I’m sorry, I can´t do that Dave.
+- 📫 How to reach me: Smoke signals, or interstellar signals buried beneath the Moon´s surface.
 
 <!---
 S1Hal9000/S1Hal9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
