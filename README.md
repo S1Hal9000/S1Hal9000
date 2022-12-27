@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S1Hal9000
-- 👀 I’m interested in Python, Rust, Assembly and Fortran presently Dave.
-- 🌱 I’m currently learning Python, Rust, and Fortran.
+- 👀 Presently I’m interested in Assembly, C++, Fortran, and Python, Dave.
+- 🌱 I’m currently learning Assembly, C++ Python, Rust, and Fortran.
 - 💞️ I’m sorry, I can´t do that Dave.
 - 📫 How to reach me: Smoke signals, or interstellar signals buried beneath the Moon´s surface.
 
