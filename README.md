@@ -1,6 +1,6 @@
 -  Hi, I’m @S1Hal9000
--  Presently I’m interested in Assembly, C, C++, Fortran, and Python Dave.
--  I’m currently learning Assembly, C++ Python, Rust, and Fortran.
+-  Presently I’m interested in Assembly, C, C++, Fortran, and Java Dave.
+-  I’m currently learning x86 Assembly, C++, Fortran, Java, and Python.
 -  I’m sorry, I can´t do that Dave.
 - 📫 How to reach me: Smoke signals, or interstellar sublunar signalling devices.
 
